@@ -1,0 +1,6 @@
+[
+  {"case_id": "abs-function", "retrieved_chunk_ids": ["brakes-01", "adas-01"]},
+  {"case_id": "battery-monitoring", "retrieved_chunk_ids": ["battery-01"]},
+  {"case_id": "adas-sensors", "retrieved_chunk_ids": ["brakes-01", "adas-01"]},
+  {"case_id": "unknown-question", "retrieved_chunk_ids": []}
+]
