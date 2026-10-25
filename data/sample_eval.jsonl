@@ -1,0 +1,4 @@
+{"case_id":"abs-function","query":"What does ABS help prevent?","relevant_chunk_ids":["brakes-01"],"tags":["automotive","braking"]}
+{"case_id":"battery-monitoring","query":"What does a battery management system monitor?","relevant_chunk_ids":["battery-01"],"tags":["automotive","ev"]}
+{"case_id":"adas-sensors","query":"Which sensors may be used by driver assistance systems?","relevant_chunk_ids":["adas-01"],"tags":["automotive","adas"]}
+{"case_id":"unknown-question","query":"Which fluid is used for the fictional hyperdrive?","relevant_chunk_ids":["fictional-drive-01"],"tags":["out-of-domain"]}
