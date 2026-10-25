@@ -54,7 +54,7 @@ python -m pytest
 The repository includes a tiny sample dataset and a baseline retrieved-results file. Run:
 
 ```bash
-python -m genai_eval.cli evaluate \
+python -m genai_eval.cli \
   --dataset data/sample_eval.jsonl \
   --predictions data/sample_predictions.json
 ```
